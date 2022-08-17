@@ -4,8 +4,10 @@
 - Homebrew Install
 - Installing iTerm2
 - Installing Github
-- Installing Vscode
-- Setup iTerm2 with custom scripts
+- Installing Python
+- Installing VScode
+- Setup iTerm2 with Custom Scripts
+
 
 
 ### Installing Homebrew
@@ -17,3 +19,12 @@ Command:
 Command:
 `brew install --cask iterm2`
 
+### Installing GitHub
+Ref: https://git-scm.com/download/mac 
+
+Command:
+`brew install git`
+
+### Installing VSCode
+Command:
+`brew install --cask visual-studio-code`
